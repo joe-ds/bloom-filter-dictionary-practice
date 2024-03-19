@@ -1,0 +1,8 @@
+[package]
+name = "bloom"
+version = "0.1.0"
+authors = ["Joe Peterson"]
+edition = "2018"
+
+[dependencies]
+seahash = "3"
